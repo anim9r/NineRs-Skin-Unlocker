@@ -676,4 +676,4 @@ LocalPlayer.SkinFolder.CTFolder:Destroy()
 TClone.Parent = LocalPlayer.SkinFolder
 CTClone.Parent = LocalPlayer.SkinFolder
 wait(1)
-print("NineR's Skin Changer v2 loaded!")
+print("NineR's Skin Unlocker successfully loaded!")
