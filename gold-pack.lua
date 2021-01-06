@@ -7,9 +7,6 @@ Script by unknow
 
 Sorting skins by NineR
 
-Pack by NineR
-Pack idea by NineR
-
 --]]
 
 if not getrawmetatable or not getsenv or not readfile or not writefile then game.Players.LocalPlayer:Kick("Exploit not supported!") end
