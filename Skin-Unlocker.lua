@@ -1,3 +1,16 @@
+--[[
+
+"SUP HTTPSPY USER, idc if you'll get source of this and use it for your scripts or anything,
+just please dont leak this lol" P.S. HexHub creator's text <<<
+
+Script by unknow
+
+Sorting skins by NineR
+
+--]]
+
+if not getrawmetatable or not getsenv or not readfile or not writefile then game.Players.LocalPlayer:Kick("Exploit not supported!") end
+
 local LocalPlayer = game:GetService("Players").LocalPlayer
 local Client = getsenv(game.Players.LocalPlayer.PlayerGui.Client)
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
