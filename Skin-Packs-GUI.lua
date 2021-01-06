@@ -3,12 +3,7 @@
 "SUP HTTPSPY USER, idc if you'll get source of this and use it for your scripts or anything,
 just please dont leak this lol" P.S. HexHub creator's text <<<
 
-Script by unknow
-
-Sorting skins by NineR
-
-Pack by NineR
-Pack idea by NineR
+GUI by NineR
 
 --]]
 
