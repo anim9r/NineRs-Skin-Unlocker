@@ -214,7 +214,7 @@ MoreButton.TextColor3 = Color3.fromRGB(0, 0, 0)
 MoreButton.TextSize = 14.000
 MoreButton.TextTransparency = 1.000
 MoreButton.MouseButton1Down:connect(function()
-	ImageMoreRound.ImageColor3 = Random
+	setclipboard("https://discord.gg/7fKKhSx5tv")
 end)
 
 ImageMoreRound.Name = "ImageMoreRound"
