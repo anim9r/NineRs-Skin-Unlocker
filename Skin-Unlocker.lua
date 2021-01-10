@@ -681,7 +681,7 @@ wait(1)
 print("NineR's Skin Unlocker successfully loaded!")
 
 --Next code-lines by NineR.
---Ciro animation replaces ciro texture to stock texture, so if i delete animation script, then texture will work.
+--Ciro animation script replaces ciro texture to stock texture, so if i delete animation script, then texture will work.
 
 local karacirounlocker = game.ReplicatedStorage.Skins.Karambit.Ciro.Animated
 karacirounlocker:Destroy()
