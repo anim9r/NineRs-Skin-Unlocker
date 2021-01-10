@@ -405,6 +405,7 @@ local allSkins = {
    {'Handwraps_Wraps'},
    {'Handwraps_Guts'},
    {'Handwraps_Wetland'},
+   {'Handwraps_Mummy'},
    {'Handwraps_MMA'},
    {'Handwraps_Toxic Nitro'},
    {'Handwraps_Ghoul Hex'},
