@@ -5,7 +5,7 @@ just please dont leak this lol"
 
 Script by unknow
 
-Sorting skins by NineR
+Adding and Sorting skins by NineR
 
 --]]
 
