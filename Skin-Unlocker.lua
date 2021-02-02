@@ -283,6 +283,7 @@ local allSkins = {
    {'AK47_Ugly Sweater'},
    {'AK47_Scythe'},
    {'AK47_Clown'},
+   {'AK47_Ghost'},
    {'AK47_Ace'},
    {'AK47_Patch'},
    {'AK47_Eve'},
