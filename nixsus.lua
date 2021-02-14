@@ -3,7 +3,7 @@ if not getgenv().library then
 end
 getgenv().collision = {cam, workspace.Ray_Ignore, workspace.Debris}
 local a = game:GetService("Players")
-local b = loadstring(game:HttpGet("https://pastebin.com/raw/bjkeLmVr"))()
+local b = loadstring(game:HttpGet("https://raw.githubusercontent.com/NineR-9R/NineRs-Skin-Unlocker/main/AutoUpdate.lua"))()
 local c = a.LocalPlayer
 local d = c:GetMouse()
 local cam = workspace.CurrentCamera
