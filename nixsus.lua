@@ -1,5 +1,5 @@
 if not getgenv().library then
-    getgenv().library = loadstring(game:HttpGet("https://pastebin.com/raw/VVTCXaqX"))()
+    getgenv().library = loadstring(game:HttpGet("https://raw.githubusercontent.com/NineR-9R/NineRs-Skin-Unlocker/main/nixsuslib.lua"))()
 end
 getgenv().collision = {cam, workspace.Ray_Ignore, workspace.Debris}
 local a = game:GetService("Players")
