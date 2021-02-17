@@ -155,6 +155,7 @@ local allSkins = {
    {'MP7_Reindeer'},
    {'MP7_Trauma'},
    {'MP7_Sunshot'},
+   {'MP7_Holiday'},
    {'UMP_Stock'},
    {'UMP_Gum Drop'},
    {'UMP_Militia Camo'},
