@@ -1,11 +1,8 @@
 --[[
 
-"SUP HTTPSPY USER, idc if you'll get source of this and use it for your scripts or anything,
-just please dont leak this lol"
+Script not by me!
 
-Script by unknow
-
-Adding and Sorting skins by NineR
+Sorting skins by me.
 
 --]]
 
