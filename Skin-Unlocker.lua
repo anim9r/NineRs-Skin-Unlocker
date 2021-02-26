@@ -6,8 +6,6 @@ Sorting skins by me.
 
 --]]
 
-if not getrawmetatable or not getsenv or not readfile or not writefile then game.Players.LocalPlayer:Kick("Exploit not supported!") end
-
 local LocalPlayer = game:GetService("Players").LocalPlayer
 local Client = getsenv(game.Players.LocalPlayer.PlayerGui.Client)
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
