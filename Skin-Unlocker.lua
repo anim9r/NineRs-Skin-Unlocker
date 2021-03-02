@@ -11,12 +11,6 @@ local Client = getsenv(game.Players.LocalPlayer.PlayerGui.Client)
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 
 local allSkins = {
-   {'AWP_THANKS'},
-   {'AWP_FOR'},
-   {'AWP_USING'},
-   {'AWP_NINER`S'},
-   {'AWP_SKIN'},
-   {'AWP_UNLOCKER!'},
    {'P2000_Stock'},
    {'P2000_Camo Dipped'},
    {'P2000_Candycorn'},
