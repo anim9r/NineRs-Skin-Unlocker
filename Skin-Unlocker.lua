@@ -2,7 +2,7 @@
 
 Script not by me!
 
-Sorting skins by me.
+Sorting skins and adding new skins by me.
 
 --]]
 
