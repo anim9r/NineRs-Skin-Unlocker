@@ -266,6 +266,7 @@ local allSkins = {
    {'M4A1_Tecnician'},
    {'M4A1_Animatic'},
    {'M4A1_Necropolis'},
+   {'M4A1_Burning'},
    {'M4A1_Impulse'},
    {'M4A1_Toucan'},
    {'M4A1_Wastelander'},
