@@ -443,6 +443,7 @@ local allSkins = {
    {'Karambit_Egg Shell'},
    {'Karambit_Gold'},
    {'Karambit_Death Wish'},
+   {'Karambit_Ghost'},
    {'Karambit_Digital'},
    {'Karambit_Scapter'},
    {'Butterfly Knife_Wetland'},
