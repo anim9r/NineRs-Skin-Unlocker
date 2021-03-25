@@ -612,9 +612,7 @@ local allSkins = {
    {'Sickle_Mummy'},
    {'Cleaver_Stock'},
    {'Cleaver_Splattered'},
-   {'Cleaver_Spider'},
-   {'Flip Knife_Stock'},
-   {'Banana_Stock'}
+   {'Cleaver_Spider'}
 }
 
 local isUnlocked
