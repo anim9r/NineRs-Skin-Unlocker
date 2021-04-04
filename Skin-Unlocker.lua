@@ -53,6 +53,7 @@ local allSkins = {
    {'Glock_Biotrip'},
    {'Glock_RSL'},
    {'Glock_Scapter'},
+   {'Glock_MidNight'},
    {'DualBerettas_Stock'},
    {'DualBerettas_Carbonized'},
    {'DualBerettas_Hexline'},
@@ -194,6 +195,7 @@ local allSkins = {
    {'MAG7_Frosty'},
    {'MAG7_Bombshell'},
    {'MAG7_Molten'},
+   {'MAG7_SilentAssasin'},
    {'SawedOff_Stock'},
    {'SawedOff_Opal'},
    {'SawedOff_Colorboom'},
@@ -255,6 +257,7 @@ local allSkins = {
    {'M4A4_Delinquent'},
    {'M4A4_Jester'},
    {'M4A4_Scapter'},
+   {'M4A4_Shards'},
    {'M4A1_Stock'},
    {'M4A1_Desert Camo'},
    {'M4A1_Tecnician'},
@@ -396,6 +399,7 @@ local allSkins = {
    {'Sports Glove_Royal'},
    {'Sports Glove_Majesty'},
    {'Sports Glove_Hazard'},
+   {'Sports Glove_DeadPrey'},
    {'Handwraps_Guts'},
    {'Handwraps_Wetland'},
    {'Handwraps_Mummy'},
@@ -546,6 +550,7 @@ local allSkins = {
    {'Bayonet_Digital'},
    {'Bayonet_Easy-Bake'},
    {'Bayonet_Candy Cane'},
+   {'Bayonet_Bunny'},
    {'Huntsman Knife_Stock'},
    {'Huntsman Knife_Ciro'},
    {'Huntsman Knife_Goo'},
@@ -612,7 +617,8 @@ local allSkins = {
    {'Sickle_Mummy'},
    {'Cleaver_Stock'},
    {'Cleaver_Splattered'},
-   {'Cleaver_Spider'}
+   {'Cleaver_Spider'},
+   {'Cleaver_Scarred'}
 }
 
 local isUnlocked
