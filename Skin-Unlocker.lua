@@ -299,6 +299,7 @@ local allSkins = {
    {'AK47_Variant Camo'},
    {'AK47_Jester'},
    {'AK47_Toxic Nitro'},
+   {'AK47_Weeb'},
    {'AK47_Skin Committee'},
    {'AK47_VAV'},
    {'AK47_Scapter'},
