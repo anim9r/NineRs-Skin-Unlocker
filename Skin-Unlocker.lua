@@ -409,6 +409,7 @@ local allSkins = {
    {'Sports Glove_Royal'},
    {'Sports Glove_Majesty'},
    {'Sports Glove_Hazard'},
+   {'Sports Glove_Calamity'},
    {'Handwraps_Guts'},
    {'Handwraps_Wetland'},
    {'Handwraps_Mummy'},
@@ -687,3 +688,9 @@ LocalPlayer.SkinFolder.TFolder:Destroy()
 LocalPlayer.SkinFolder.CTFolder:Destroy()
 TClone.Parent = LocalPlayer.SkinFolder
 CTClone.Parent = LocalPlayer.SkinFolder
+--My scripts:
+if game.ReplicatedStorage.Gloves.Racer then
+    game.ReplicatedStorage.Gloves.Racer.Parent = game.ReplicatedStorage.Gloves["Strapped Glove"]
+    wait()
+    game.ReplicatedStorage.Gloves["Strapped Glove"].Racer.Type.Value = "Straps"
+end
