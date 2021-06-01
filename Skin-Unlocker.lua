@@ -693,4 +693,6 @@ if game.ReplicatedStorage.Gloves.Racer then
     game.ReplicatedStorage.Gloves.Racer.Parent = game.ReplicatedStorage.Gloves["Strapped Glove"]
     wait()
     game.ReplicatedStorage.Gloves["Strapped Glove"].Racer.Type.Value = "Straps"
+else
+    --.
 end
