@@ -688,7 +688,8 @@ LocalPlayer.SkinFolder.TFolder:Destroy()
 LocalPlayer.SkinFolder.CTFolder:Destroy()
 TClone.Parent = LocalPlayer.SkinFolder
 CTClone.Parent = LocalPlayer.SkinFolder
---My scripts:
+
+--[[
 if game.ReplicatedStorage.Gloves.Racer then
     game.ReplicatedStorage.Gloves.Racer.Parent = game.ReplicatedStorage.Gloves["Strapped Glove"]
     wait()
@@ -696,3 +697,4 @@ if game.ReplicatedStorage.Gloves.Racer then
 else
     --.
 end
+--]]
