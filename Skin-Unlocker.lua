@@ -135,6 +135,7 @@ local allSkins = {
    {'MP9_Wilderness'},
    {'MP9_Control'},
    {'MP9_Vaporwave'},
+   {'MP9_Cookie'},
    {'MAC10_Stock'},
    {'MAC10_Wetland'},
    {'MAC10_Turbo'},
