@@ -410,6 +410,7 @@ local allSkins = {
    {'Sports Glove_Majesty'},
    {'Sports Glove_Hazard'},
    {'Sports Glove_Calamity'},
+   {'Sports Glove_Twitch'},
    {'Handwraps_Guts'},
    {'Handwraps_Wetland'},
    {'Handwraps_Mummy'},
