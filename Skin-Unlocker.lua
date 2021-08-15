@@ -494,6 +494,7 @@ local allSkins = {
    {'Butterfly Knife_Inversion'},
    {'Butterfly Knife_Splattered'},
    {'Butterfly Knife_Digital'},
+   {'Butterfly Knife_Ciro'},
    {'Falchion Knife_Stock'},
    {'Falchion Knife_Goo'},
    {'Falchion Knife_Wetland'},
