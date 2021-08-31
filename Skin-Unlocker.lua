@@ -1,4 +1,6 @@
 --[[
+--------------------Someday i will delete this.
+
 
 Script not by me!
 
