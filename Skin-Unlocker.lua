@@ -1,6 +1,6 @@
 --[[
 
---Someday i will remove this.
+Someday i will remove this.
 
 Script not by me!
 
