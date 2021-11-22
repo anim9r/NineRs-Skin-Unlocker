@@ -696,13 +696,13 @@ mt.__namecall = newcclosure(function(self, ...)
          LocalPlayer["SkinFolder"]["CTFolder"][args[1][3]].Value = currentSkin
          LocalPlayer["SkinFolder"]["TFolder"][args[1][3]].Value = currentSkin
         else
-         LocalPlayer["SkinFolder"][args[1][2] .. "Folder"][args[1][3]].Value = currentSkin --NineR
+         LocalPlayer["SkinFolder"][args[1][2] .. "Folder"][args[1][3]].Value = currentSkin
         end
     end
    end
    return oldNamecall(self, ...)
 end)
-   
+
 setreadonly(mt, true)
 
 Client.CurrentInventory = allSkins
@@ -712,13 +712,3 @@ LocalPlayer.SkinFolder.TFolder:Destroy()
 LocalPlayer.SkinFolder.CTFolder:Destroy()
 TClone.Parent = LocalPlayer.SkinFolder
 CTClone.Parent = LocalPlayer.SkinFolder
-
---[[
-if game.ReplicatedStorage.Gloves.Racer then
-    game.ReplicatedStorage.Gloves.Racer.Parent = game.ReplicatedStorage.Gloves["Strapped Glove"]
-    wait()
-    game.ReplicatedStorage.Gloves["Strapped Glove"].Racer.Type.Value = "Straps"
-else
-    --.
-end
---]]
