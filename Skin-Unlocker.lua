@@ -184,7 +184,7 @@ local allSkins = {
    {'Bizon_Oblivion'},
    {'Nova_Stock'},
    {'Nova_Paradise'},
-   {'Nova_Oath'}
+   {'Nova_Oath'},
    {'Nova_Starry Night'},
    {'Nova_Black Ice'},
    {'Nova_Sharkesh'},
