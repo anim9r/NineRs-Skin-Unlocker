@@ -1,15 +1,13 @@
---[[
+--[[.
 
-Someday i will remove this.
-
-Script not by me!
-
-Sorting skins and adding new skins by me.
+Version of resorted & new skins.
 
 --]]
 
+LogInventoryUnlocker
+
 local LocalPlayer = game:GetService("Players").LocalPlayer
-local Client = getsenv(game.Players.LocalPlayer.PlayerGui.Client)
+local Client = getsenv(game:GetService("Players").LocalPlayer.PlayerGui.Client)
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 
 local allSkins = {
@@ -707,7 +705,7 @@ setreadonly(mt, true)
 
 Client.CurrentInventory = allSkins
 
-local TClone, CTClone = LocalPlayer.SkinFolder.TFolder:Clone(), game.Players.LocalPlayer.SkinFolder.CTFolder:Clone()
+local TClone, CTClone = LocalPlayer.SkinFolder.TFolder:Clone(), game:GetService("Players").LocalPlayer.SkinFolder.CTFolder:Clone()
 LocalPlayer.SkinFolder.TFolder:Destroy()
 LocalPlayer.SkinFolder.CTFolder:Destroy()
 TClone.Parent = LocalPlayer.SkinFolder
